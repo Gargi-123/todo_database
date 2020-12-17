@@ -1,0 +1,119 @@
+{
+  "task": [
+    {
+      "tag": "personal",
+      "description": "Nykka",
+      "id": "9aae46cb-6b3f-45b3-a406-326e0c086543",
+      "title": "Buy Cosmetics",
+      "status": "not_done",
+      "date": "2020-12-03",
+      "sub_task": [
+        {
+          "title": "Buy Lipstick",
+          "status": false,
+          "id": "5becf45d51-6cab-4c8f-872b-64370f9v82774"
+        },
+        {
+          "title": "Buy Eyeliner",
+          "status": false,
+          "id": "5becf799d51-6cab-4c8f-872b-6437fv0f982774"
+        }
+      ]
+    },
+    {
+      "tag": "personal",
+      "description": "Spencer",
+      "id": "9aae46cb-6b3f-45b3-a406-326e0tghc737821",
+      "title": "Buy Vegetables",
+      "status": "in_progress",
+      "date": "2020-12-07",
+      "sub_task": [
+        {
+          "title": "Buy Carrot",
+          "status": true,
+          "id": ""
+        },
+        {
+          "title": "Buy Cucumber",
+          "status": false,
+          "id": ""
+        }
+      ]
+    },
+    {
+      "tag": "official",
+      "description": "Make a Profile Card",
+      "id": "9aae46vvcb-6b3f-45b3-a406-326e0c737821",
+      "title": "Submit Notes",
+      "status": "done",
+      "date": "",
+      "sub_task": [
+        {
+          "title": "Frontend",
+          "status": true,
+          "id": "5bfd51-6cab-4c8f-872b-64370f982774"
+        },
+        {
+          "title": "Backend",
+          "status": true,
+          "id": "5becd51-6cab-4c8f-872b-64370f982774"
+        }
+      ]
+    },
+    {
+      "tag": "miscellaneous",
+      "description": "For Gym",
+      "id": "9aae46cb-6b3f-45b3-a406-326e0c612382",
+      "title": "Buy Shoes",
+      "status": "not_done",
+      "date": "2020-12-13",
+      "sub_task": [
+        {
+          "title": "Nyka",
+          "status": false,
+          "id": "5becfd51-6cab-4c8f-72b-64370f982774"
+        },
+        {
+          "title": "Adidas",
+          "status": false,
+          "id": "5becfd51-6cab-4c8f-872b-6437f982774"
+        }
+      ]
+    },
+    {
+      "tag": "miscellaneous",
+      "description": "For Marriage",
+      "id": "9aae46cb-6b3f-45b3-a406-326e0c873617",
+      "title": "Buy Dress",
+      "status": "done",
+      "date": "2020-11-20",
+      "sub_task": [
+        {
+          "title": "Lehenga",
+          "status": true,
+          "id": "5becfd51-6cab-4c8f-872b-6470f982774"
+        },
+        {
+          "title": "Sherwani",
+          "status": true,
+          "id": "5becfd51-6cab-4c8f-872b-64370f982774"
+        }
+      ]
+    },
+    {
+      "tag": "miscellaneous",
+      "description": "vdsvsdv",
+      "id": "730bc2e2-41d9-4747-a729-b957a6b283d1",
+      "title": "vsdv",
+      "status": "done",
+      "date": "2020-12-17",
+      "sub_task": [
+        {
+          "id": "5becfd51-6cab-4c6f-872b-64370f982774",
+          "title": "dvdv",
+          "status": true
+        }
+      ]
+    }
+  ]
+}
